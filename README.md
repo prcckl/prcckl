@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prcckl
 - 👀 I’m interested in Code I think
 - 🌱 I’m currently learning what is coming around
-- 💞️ I’m looking to collaborate on to wahtsoever
+- 💞️ I’m looking to collaborate on to whatsoever
 - 📫 How to reach me is a mystery but message thats best
 
 <!---
